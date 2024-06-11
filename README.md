@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ferreira05
 - 👀 I’m interested in learn Web Development
-- 🌱 I’m currently learning Html,Css
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
